@@ -11,6 +11,14 @@ Tools Used - Micrososft Power BI
 
 Operations Performed - Data Gathering, Data Transformation, DAX, Data Visualization, Sharing Insights.
 
+For purpose of making this dashboard, KPI's were enlisted that were Sales, Gross Sales , COGS and Profit for the FY. Secondary Bar graph were added for Country wise sales and Tables added for Top 3 products segment wise sales. Slicers were added Country, Discount Bands, Products, Segments and Quarter.
+Bar Chart was added for month wise sales but tweaked with DAX formulation to show sales as per American Fiscal Year i.e. (April-March) instead of January to December. Also, Quarters were added accordingly.
+
+INSIGHTS
+1. October was the best month where Sales were at its peak for 2021 and 2022.
+2. For 2022 USA recorded highest sales for the business whereas for 2021 Germany recorded the highest sales.
+3.  Under Enterprise segment with all the three products i.e. VTT, Velo and Paseo. The business suffered loss in all 3 of them. However, when combined overall business was in a healthy profit.
+
 It was a great experience for me and amazing project to work upon. Huge Thanks to Abhishek Agarrwal - Data Science Tutorial - YT for this dataset and his incredible guidance.
 
 Kindly share your feedbacks and suggestions regarding this project.
